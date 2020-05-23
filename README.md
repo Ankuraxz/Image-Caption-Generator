@@ -1,5 +1,5 @@
 # Image-Caption-Generator
-# LSTM+CNN 
+# LSTM+ RESNET50 
 ![picture alt](imgx.jpg "_")
 
 # Fliker Dataset
